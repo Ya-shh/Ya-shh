@@ -1,6 +1,6 @@
  Hey👋🏻, I’m Yash !
  
-•  I'm an undergad engineering student. 
+•  I'm passionate about learning new things. 
 
 •  Currently I'm learning  Natural Language Processing(NLP), Machine Learning Operations (MLOps) & Artificial intelligence(AI).
 
